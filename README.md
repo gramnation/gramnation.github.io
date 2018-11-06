@@ -1,2 +1,2 @@
 # gramnation.gihub.io
-Graham Stewart, Austin Texas based Open Source GIS Consultant
+Graham Stewart, Open Source GIS Consultant Based in Austin, Texas
