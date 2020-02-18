@@ -13,6 +13,6 @@ My presentation slides and a few demo GeoPackages are available on Google Drive.
 * Domain bikelanes + aerial images
 * Multi-resolution global shorelines
 
-[GeoPackage 101](https://drive.google.com/drive/folders/1LTFjeuta_vb6YUnuoUiXETgn6X5cFiLU)
+[GeoPackage 101](https://drive.google.com/open?id=1TGZUnxR-1BmVhYON0sdugNpGO8CPUI8c)
 
  
